@@ -9,4 +9,4 @@
 ---
 
 ## Link Access 
-🔗 **Streamlit Cloud**: https://github.com/arshaamuliyan-hash/UAS-INFORMATION-REETRIEVAL.git
+🔗 **Streamlit Cloud**: https://uas-information-reetrieval-arshamuliyan24146016.streamlit.app/
