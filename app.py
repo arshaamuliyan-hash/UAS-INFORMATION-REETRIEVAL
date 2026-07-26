@@ -3,7 +3,7 @@ import json
 import os
 
 # Menunjuk ke lokasi file data/books.json
-DATA_PATH = "data/books.json"
+DATA_PATH = books.json
 
 st.set_page_config(page_title="Book Search (Scraped via Scrapy)", layout="wide")
 st.title("📚 Book Search (Scraped via Scrapy)")
